@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | Ethan Jahn</title>
+  <link rel="stylesheet" href="/assets/stylesheets/extra.css">
+  <link rel="stylesheet" href="/assets/stylesheets/home.css">
+  <script src="/assets/scripts/randombg.js" defer></script>
+  <script src="/assets/scripts/hover.js" defer></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Space+Grotesk:300,300i,400,400i,700,700i&display=fallback">
+</head>
+<body>
+
+<div class="pageHeader imageBG" style="background-image: url('/assets/images/comet.jpeg'); background-size: cover; background-position: center;">
+<a href="/" style="text-decoration: none; color: inherit;">
+<h1>Ethan Jahn, PhD</h1>
+<div style="font-size: 14px;">Computational Astrophysist | Research Computing Specialist | Digital Artist | Musician </div>
+<p></p>
+<div style="font-size: 12px;">welcome to my web site :)</div>
+</a>
+</div>
+<button id="bgToggle" style="position: fixed; top: 10px; left: 10px; padding: 6px 12px; border: 1px solid black; background-color: grey; color: white; cursor: pointer;">bg on/off</button>
+<script>
+document.getElementById("bgToggle").addEventListener("click", function() {
+    const current = localStorage.getItem("bgSolidMode") === "true";
+    const next = !current;
+    localStorage.setItem("bgSolidMode", next);
+    if (next) {
+        document.body.style.backgroundImage = "none";
+        document.body.style.backgroundColor = "#ffffff";
+    } else {
+        location.reload();
+    }
+});
+</script>
+
+{{ content | safe }}
+
+</body>
+</html>

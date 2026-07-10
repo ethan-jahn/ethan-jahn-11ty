@@ -1,0 +1,169 @@
+.pageContent {
+    background-color: rgba(255, 255, 255, 0.9);
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+body {
+    font-family: "Space Grotesk", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: rgb(0, 195, 179);
+}
+
+.pageHeader {
+    padding: 30px;
+    margin: 30px auto;
+    width: 700px;
+    max-width: 90%;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid grey;
+    /* color: white; */
+}
+
+.randomColorButton {
+    padding: 10px;
+    border: 1px solid grey;
+    /* margin: 10px; */
+    background-color: rgba(255, 255, 255, 0.9)
+}
+
+
+.randomColorButtonSquare {
+    padding: 10px;
+    border: 1px solid grey;
+    background-color: rgba(255, 255, 255, 0.9);
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.randomColorButtonSquare a {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    
+}
+
+/* .randomColorButtonSquare h2 {
+    text-shadow: 3px 3px 9px rgba(0,0,0,0.9);
+} */
+
+.imageBG {
+    position: relative;
+}
+.imageBG::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0,0,0,0.15);
+}
+.imageBG h1,
+.imageBG h2,
+.imageBG div {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
+
+.buttonGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-items: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonGrid > p {
+    display: none;
+}
+
+.buttonGrid2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    justify-items: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonGrid2 > p {
+    display: none;
+}
+
+@media (max-width: 900px) {
+    .buttonGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .buttonGrid {
+        grid-template-columns: 1fr;
+    }
+
+    .buttonGrid2 {
+        grid-template-columns: 1fr;
+    }
+}
+
+.imageGrid {
+    column-count: 3;
+    column-gap: 10px;
+}
+
+.imageGrid p {
+    display: contents;
+}
+
+.imageGrid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+    break-inside: avoid;
+}
+
+@media (max-width: 1000px) {
+    .imageGrid {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 700px) {
+    .imageGrid {
+        column-count: 1;
+    }
+}
+
+.pageContentWide {
+    max-width: 1400px;
+    background-color: transparent;
+}
+
+.inlineImage {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
