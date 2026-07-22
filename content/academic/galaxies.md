@@ -20,17 +20,17 @@ The simulations I researched were systems around the same mass as the Large Mage
 
 These first two videos are the same system, but with different properties represented in the coloring. The red-yellow colorscale video on the left is a temperature projection of the interstellar gas, and the blue-green-pink colorscale on the right is the density of the interstellar gas.
 
-<span><iframe width="450" height="255" src="https://www.youtube.com/embed/HWkvhXmWcoo?si=lesGJnbv17V7S-tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/HWkvhXmWcoo?si=lesGJnbv17V7S-tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/As2KD_CAEO4?si=bZQsw_qnB8TY7zcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/As2KD_CAEO4?si=bZQsw_qnB8TY7zcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The next three videos are all density projections of different systems.
 
-<span><iframe width="450" height="255" src="https://www.youtube.com/embed/-S4h6DmHr4g?si=8hOrFmbXL7veyuLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<span><iframe width="800" height="454" src="https://www.youtube.com/embed/-S4h6DmHr4g?si=8hOrFmbXL7veyuLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/X464UqPx1dI?si=KJY7iTz7q8y1zFOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/X464UqPx1dI?si=KJY7iTz7q8y1zFOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/hiEzHcv6N7k?si=9kReaRPg9LYvS3s1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/hiEzHcv6N7k?si=9kReaRPg9LYvS3s1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
 
 All of the above videos demonstrate the quenching of star formation of satellite galaxies by one or both of two different mechanisms:
 
@@ -41,7 +41,7 @@ All of the above videos demonstrate the quenching of star formation of satellite
 
 ### Formation of a stellar halo through tidal stripping of a satellite galaxy around a dwarf galaxy host
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/w1jR9N2ISVg?si=NiIo8IYhPtzPueAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/w1jR9N2ISVg?si=NiIo8IYhPtzPueAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Stellar halos are a vast collection of stars orbiting a galaxy in highly elongated, very large orbits. These stars typically originated in other galaxies and were flung into such orbits through close encounters between the two galaxies, now orbiting the larger one. These structures have been known around larger galaxies like the Milky Way for some time, but this research shows that they can form around dwarf galaxies like the Large Magellanic Clouds as well.
 
@@ -56,15 +56,15 @@ In constrast to the cosmological simulations I looked at in FIRE, these are idea
 Stars are colored yellow and gas is colored blue
 
 <span>
-<iframe width="450" height="255" src="https://www.youtube.com/embed/q0bTOKTsnQo?si=ZEX2XdD2zA5Yqm-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/q0bTOKTsnQo?si=ZEX2XdD2zA5Yqm-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/eWIjRXRnseE?si=koSspJea9FMr5A9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/eWIjRXRnseE?si=koSspJea9FMr5A9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/DJZq2El4PJ0?si=_OUbN5_N2uKNd20c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/DJZq2El4PJ0?si=_OUbN5_N2uKNd20c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/lxGDHKX8SIQ?si=HiiqJ2bObUj34A_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/lxGDHKX8SIQ?si=HiiqJ2bObUj34A_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/TtCYiERXDSE?si=4GfEP7QPulYONyJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/TtCYiERXDSE?si=4GfEP7QPulYONyJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </span>
 
 ### Radial Velocity Distributions
@@ -74,25 +74,25 @@ The following animated plots show the distance of things to the center of the ga
 
 ### Stars
 <span>
-<iframe width="450" height="255" src="https://www.youtube.com/embed/lZlbO66B1ik?si=ISn-wdcWJ227Y2jL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/lZlbO66B1ik?si=ISn-wdcWJ227Y2jL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/LSH-iqAVdLo?si=S1DYj2U2PdH6IzcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/LSH-iqAVdLo?si=S1DYj2U2PdH6IzcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </span>
 <br>
 
 ### Gas
 
 <span>
-<iframe width="450" height="255" src="https://www.youtube.com/embed/-I2R0vrFmIg?si=aXrnhmV9CIayETqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/-I2R0vrFmIg?si=aXrnhmV9CIayETqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="450" height="255" src="https://www.youtube.com/embed/aFQBAP3qEIA?si=3yeVS3yHguD-cI4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/aFQBAP3qEIA?si=3yeVS3yHguD-cI4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </span>
 <br>
 
 ### Dark Matter
 
 <span>
-<iframe width="450" height="255" src="https://www.youtube.com/embed/_taOC9fqZJI?si=skpDX3l-FCpO5RVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="454" src="https://www.youtube.com/embed/_taOC9fqZJI?si=skpDX3l-FCpO5RVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </span>
 
 ## Publications

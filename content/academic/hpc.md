@@ -14,3 +14,5 @@ Given my background in astrophysics, I tend to work particularly closely with re
 One thing I like about this role is that it's very dynamic, but that also means it's hard to describe. Reach out to me if you're curious! 
 
 contact: [ejahn@arizona.edu](mailto:ejahn@arizona.edu)
+
+<img src="/assets/images/hpcteam.jpg" style="max-width: 800px; float: center; margin: 40px">

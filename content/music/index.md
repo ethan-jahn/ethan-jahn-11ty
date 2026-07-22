@@ -3,7 +3,7 @@ layout: base.njk
 title: Music
 ---
 
-<div class="buttonGrid2">
+<div class="buttonGrid">
 
 <a href="https://www.instagram.com/wizardzofodd/">
 <div class="randomColorButtonSquare imageBG" style="background-image: url('/assets/images/buttons/wizardz.png'); background-size: cover; background-position: center;">
@@ -14,6 +14,12 @@ title: Music
 <a href="https://www.instagram.com/thecommongoode/">
 <div class="randomColorButtonSquare imageBG" style="background-image: url('/assets/images/buttons/commongoode.png'); background-size: cover; background-position: center;">
 <h2>The Common Goode</h2>
+</div>
+</a>
+
+<a href="https://albaylosmezcaleros.bandcamp.com/">
+<div class="randomColorButtonSquare imageBG" style="background-image: url('/assets/images/pedacitos-del-alma.jpg'); background-size: cover; background-position: center;">
+<h2>Alba y los mezcaleros</h2>
 </div>
 </a>
 
