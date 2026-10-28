@@ -3,7 +3,7 @@ layout: page.njk
 title: About
 ---
 
-<img src="/assets/images/profile_2.png" class="inlineImage" style="max-width: 300px; float: right; margin: 40px">
+<img src="/assets/images/profile_3.jpg" class="inlineImage" style="max-width: 300px; float: right; margin: 40px">
 
 # Hello
 
