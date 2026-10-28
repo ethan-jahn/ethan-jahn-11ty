@@ -3,9 +3,9 @@ layout: page.njk
 title: About
 ---
 
-<img src="/assets/images/profile.jpeg" class="inlineImage" style="max-width: 300px; float: right; margin: 40px">
+<img src="/assets/images/profile_2.png" class="inlineImage" style="max-width: 300px; float: right; margin: 40px">
 
-# Hello!
+# Hello
 
 I like making stuff with computers and helping other people make stuff with computers. Sometimes also other tools like cameras and musical instruments. The things I like to make range from scientific simulations of galaxy formations to code that generates silly shapes, technical documentation, and live audio-reactive visuals. 
 
